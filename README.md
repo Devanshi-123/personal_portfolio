@@ -1,6 +1,6 @@
 # Site is live here
 
-https://devanshi-123.github.io/React_Portfolio_Website/
+ https://devanshi-123.github.io/personal_portfolio/
 
 # Getting Started with Create React App
 
