@@ -1,6 +1,6 @@
 # Site is live here
 
- https://devanshi-123.github.io/personal_portfolio/
+ https://devanshinitp.netlify.app/#/
 
 # Getting Started with Create React App
 
