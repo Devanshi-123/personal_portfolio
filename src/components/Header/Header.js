@@ -31,7 +31,7 @@ const Header = props => {
         typeSpeed={30}/>
           </h1>
           <div className="buttons">
-            <a href="https://drive.google.com/file/d/1zZpRpxHCKjgfWsGVQrlhDP6BXl0K6iRS/view?usp=sharing" download="resume">Download Resume</a>
+            <a href="https://drive.google.com/file/d/1kgmdB3pMQfxTj01J2E-4oFZG4joEuKiM/view?usp=sharing" download="resume">Download Resume</a>
             <a href="#contact" className="cta">
               get in touch
             </a>

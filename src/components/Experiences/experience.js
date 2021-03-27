@@ -7,6 +7,32 @@ import '../../App.css';
      return(
          <div className="desc full">
 <VerticalTimeline>
+<VerticalTimelineElement
+   contentStyle={{ background: '#96bb7c', color: 'black' }}
+   contentArrowStyle={{ borderRight: '7px solid  #96bb7c' }}
+    className="vertical-timeline-element--work"
+    date="January 2021 - March 2021"
+    iconStyle={{ background: '#96bb7c', color: 'black' }}
+  >
+    <h3 className="vertical-timeline-element-title">React Developer</h3>
+    <h4 className="vertical-timeline-element-subtitle">Infoware India</h4>
+    <p>
+      Developed frontend of different websites using ReactJS
+    </p>
+  </VerticalTimelineElement>
+  <VerticalTimelineElement
+   contentStyle={{ background: '#8ac4d0', color: 'black' }}
+   contentArrowStyle={{ borderRight: '7px solid  #8ac4d0' }}
+    className="vertical-timeline-element--work"
+    date="February 2021 - Present"
+    iconStyle={{ background: '#8ac4d0', color: 'black' }}
+  >
+    <h3 className="vertical-timeline-element-title">Web Developer</h3>
+    <h4 className="vertical-timeline-element-subtitle">ICT Nit Patna</h4>
+    <p>
+      Developing and maintaining the official website of ICT NIT Patna
+    </p>
+  </VerticalTimelineElement>
   <VerticalTimelineElement
    contentStyle={{ background: '#efb08c', color: 'black' }}
    contentArrowStyle={{ borderRight: '7px solid  #efb08c' }}
